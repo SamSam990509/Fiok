@@ -1,0 +1,4 @@
+Fiokok Féléves nagy feladat:
+Bemenet egy txt file, aminek az elérését a Beolvas osztály 14.sorában kell megadni. (egy pozitív egész számot kell tartalmazni a txtnek ami azt jelenti ,hogy hány elemet tesz be a program )
+a program 2x fut le 2 különböző megoldással az első a WalkingSolution(WS) ami úgy teszi be az elemeket, hogy azok nem képesek keresztül menni objektumokon. A másik megoldás a FlyingSolution ami viszont képes.
+a program a végén kiírja hány elemet nem sikerült betenni a két különböző eljárással.
